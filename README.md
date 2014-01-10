@@ -7,7 +7,7 @@ Demo
 ----
 Here's a demo of the integration with the latest version of three.min.js:
 [CarPhysicsDemo](http://erichlof.github.io/Physics/jiglibjs2_vehicle_physics.html)
-Drive the car with Arrow keys.  Click on objects to toss them up into the air.
+<br>Drive the car with Arrow keys.  Click on objects to toss them up into the air.
 
 Integration with Three.js
 -------------------------
