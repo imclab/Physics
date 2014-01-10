@@ -7,6 +7,8 @@ Demo
 ----
 Here's a demo of the integration with the latest version of three.min.js:
 
+Drive the car with Arrow keys.  Click on objects to toss them up into the air.
+
 Integration with Three.js
 -------------------------
 The authors of Three.js have changed some method names and functionality since JigLibJS2 was built.  Therefore, I had to alter how the demo calls certain functions.  I think I got everything working now. :)
