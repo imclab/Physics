@@ -1,7 +1,7 @@
 Physics
 =======
 
-This is the testing ground for possibly integrating a physics engine into THREEx.  I have chosen to work with JigLibJS2 because it is relatively lightweight (a lot smaller than ammo.js, and just slightly bigger than Cannon.js).  Unlike cannon.js however, JigLibJS2 offers terrain (heightfield mesh) collision out of the box.  I feel that this is a very important part of wanting to add a physics engine in the first place.  The possibilites for games are great with terrain support.
+This is the testing ground for possibly integrating a physics engine into THREEx.  I have chosen to work with JigLibJS2 because it is relatively lightweight (a lot smaller than ammo.js and physijs, and just slightly bigger than Cannon.js).  Unlike cannon.js however, JigLibJS2 offers terrain (heightfield mesh) collision out of the box.  I feel that this is a very important part of wanting to add a physics engine in the first place.  The possibilites for games are great with terrain support.
 
 Demo
 ----
